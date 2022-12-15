@@ -39,3 +39,7 @@ a{
     border-color: antiquewhite;
     border: 1px solid;
 }
+.btn{
+    width: 15px;
+    height: 5px;
+}
